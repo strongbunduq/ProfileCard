@@ -24,7 +24,7 @@ const contacts: ContactLink[] = [
     icon: <Mail size={14} />,
     label: 'Email',
     value: 'strongbunduq@gmail.com',
-    href: 'mailto:strongbunduq@gmail.com',
+    href: 'strongbunduq@gmail.com',
   },
 ];
 
