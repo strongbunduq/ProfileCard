@@ -16,7 +16,22 @@ const tracks = [
     duration: '3:00',
     audioSrc: '/audio/shake-it-to-the-max.mp3',
   },
+  {
+    title: 'Show Me The Will',
+    artist: 'HYZEX',
+    albumArt: albumCover,
+    duration: '5:03',
+    audioSrc: 'Sx1nxwy-show-me-the-will.mp3',
+  },
+  {
+    title: 'Living Life, in the Night',
+    artist: 'SNOW',
+    albumArt: albumCover,
+    duration: '2:38',
+    audioSrc: 'living-Life-in-the-night.mp3',
+  },
 ];
+
 
 // Discord User ID for Lanyard API
 const DISCORD_USER_ID = '1186605673644032081';
