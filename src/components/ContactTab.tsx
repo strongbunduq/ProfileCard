@@ -17,14 +17,14 @@ const contacts: ContactLink[] = [
   {
     icon: <Github size={14} />,
     label: 'GitHub',
-    value: '@z.p0',
-    href: 'https://github.com/z.p0',
+    value: 'strongbunduq',
+    href: 'https://github.com/strongbunduq',
   },
   {
     icon: <Mail size={14} />,
     label: 'Email',
     value: 'strongbunduq@gmail.com',
-    href: 'strongbunduq@gmail.com',
+    href: 'mailto:strongbunduq@gmail.com',
   },
 ];
 
