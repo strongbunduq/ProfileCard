@@ -21,14 +21,14 @@ const tracks = [
     artist: 'HYZEX',
     albumArt: albumCover,
     duration: '5:03',
-    audioSrc: 'Sx1nxwy-show-me-the-will.mp3',
+    audioSrc: '/audio/Sx1nxwy-show-me-the-will.mp3',
   },
   {
     title: 'Living Life, in the Night',
     artist: 'SNOW',
     albumArt: albumCover,
     duration: '2:38',
-    audioSrc: 'living-Life-in-the-night.mp3',
+    audioSrc: '/audio/living-Life-in-the-night.mp3',
   },
 ];
 
