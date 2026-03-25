@@ -17,7 +17,7 @@ const contacts: ContactLink[] = [
   {
     icon: <Github size={14} />,
     label: 'GitHub',
-    value: 'snow',
+    value: '@z.p0',
     href: 'https://github.com/z.p0',
   },
   {
